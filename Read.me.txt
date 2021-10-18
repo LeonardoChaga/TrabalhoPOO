@@ -61,4 +61,4 @@ Se o usuário desejar visualizar as informações de todos os seus vendedores, o
 S - Sair.
 
 
-Link do GitHub: https://github.com/Bossofhell/trabalhopoo
+Link do GitHub: https://github.com/LeonardoChaga/TrabalhoPOO
