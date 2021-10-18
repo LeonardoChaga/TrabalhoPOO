@@ -1,0 +1,48 @@
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.exe
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.deps.json
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.runtimeconfig.json
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.runtimeconfig.dev.json
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.dll
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\ref\TrabalhoRicardo.dll
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.pdb
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.csproj.AssemblyReference.cache
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.AssemblyInfoInputs.cache
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.AssemblyInfo.cs
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.csproj.CoreCompileInputs.cache
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.dll
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\ref\TrabalhoRicardo.dll
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.pdb
+C:\Users\Léo\source\repos\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.exe
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.deps.json
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.runtimeconfig.json
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.dll
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\ref\TrabalhoRicardo.dll
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.pdb
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.dll
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\ref\TrabalhoRicardo.dll
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.pdb
+C:\Users\Windows\Desktop\TrabalhoRicardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.genruntimeconfig.cache
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.exe
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.deps.json
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.runtimeconfig.json
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.runtimeconfig.dev.json
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.dll
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\bin\Debug\net5.0\ref\TrabalhoRicardo.dll
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\bin\Debug\net5.0\TrabalhoRicardo.pdb
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.csproj.AssemblyReference.cache
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.AssemblyInfoInputs.cache
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.AssemblyInfo.cs
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.csproj.CoreCompileInputs.cache
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.dll
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\ref\TrabalhoRicardo.dll
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.pdb
+C:\Users\Léo\source\repos\Trabalho Ricardo\Trabalho Ricardo\obj\Debug\net5.0\TrabalhoRicardo.genruntimeconfig.cache
